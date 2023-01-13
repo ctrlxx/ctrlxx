@@ -3,7 +3,7 @@ Hi there, This is Zack Chen!
 - 🎯 I’m currently working on [Bizseer‘s Department of AIOps](https://www.bizseer.com/)
 - 📰 I'm maintaining a website for [ZACK's Blog](http://blog.czack.top)
 
-![Zack's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ctrlxx&count_private=true)
+![Zack's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ctrlxx&count_private=true&theme=radical)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ctrlxx/ctrlxx/master/profile-3d-contrib/profile-night-view.svg">
