@@ -1,6 +1,6 @@
 Hi there, This is Zack Chen!
 
-- 🎯 I’m currently working on [Bizseer‘s Department of AIOps](https://www.bizseer.com/)
+- 🎯 I’m currently working on XXXXX
 - 📰 I'm maintaining a website for [ZACK's Blog](https://czk.ai)
 
 ![Zack's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ctrlxx&count_private=true&theme=radical)
